@@ -10,7 +10,7 @@ const Projects: React.FC = () => {
       technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Redux'],
       gradient: 'from-blue-500 to-cyan-500',
       bgGradient: 'from-blue-50 to-cyan-50',
-      liveLink: 'https://earnflex.app',
+      liveLink: 'https://earnflex.com',
       codeLink: '#',
     },
     {
